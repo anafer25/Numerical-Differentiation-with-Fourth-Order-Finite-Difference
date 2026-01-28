@@ -1,0 +1,2 @@
+# Numerical-Differentiation-with-Fourth-Order-Finite-Difference
+This project implements a fourth-order finite difference method to approximate derivatives of functions numerically. By computing errors for decreasing step sizes and plotting them on log–log axes, the method’s convergence rate is verified. The project demonstrates skills in Python programming, numerical analysis, and data visualization.
